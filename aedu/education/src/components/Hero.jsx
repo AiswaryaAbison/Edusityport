@@ -5,6 +5,7 @@ import darkarrow from '../assets/darkarrow.png'
 const Hero = () => {
   return (
     <div className='hero container'>
+       
       <div className='hero-text'>
         <h1>Welcome to the website .We ensure better education for better world</h1>
         <p>The website is created to empore students
